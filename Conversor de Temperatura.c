@@ -1,7 +1,5 @@
 // Conversor de Temperatura
 // Autor: Aleixo Martins
-// Descrição: Converte valores de temperatura entre Celsius e Fahrenheit.
-// Linguagem: C
 
 #include <stdio.h>
 

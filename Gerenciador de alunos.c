@@ -1,6 +1,5 @@
 // Gerenciador de Alunos
 // Autor: Aleixo Martins
-// Linguagem: C
 
 #include <stdio.h>
 

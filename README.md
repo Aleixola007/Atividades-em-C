@@ -8,14 +8,10 @@ O objetivo é praticar lógica de programação, estruturas de dados e consolida
 
 ## 📂 Projetos
 
-- 🎮 [Jogo da Velha - Versão 2A](./jogo-da-velha-v2a)  
-- 🎮 [Jogo da Velha - Versão 2B](./jogo-da-velha-v2b)  
-- 🌡️ [Conversor de Temperatura](./conversor-temperatura)  
+- 🎮 [Jogo da Velha]([./jogo-da-velha-v2a](https://github.com/Aleixola007/Atividades-em-C/commit/182910815cd5251946bcda1d942212a5bfdf45b8))  
+- 🎮 [Gerenciador de alunos](./Gerenciador-de-alunos)  
+- 🌡️ [Conversor de Temperatura](./[conversor-temperatura](https://github.com/Aleixola007/Atividades-em-C/commit/44da36db59ea8efd347bd566debb8f571f167bce))  
 - 🎲 [Gerador de Jogos da Loteria](./gerador-loteria)  
-
-Cada pasta contém:
-- O código-fonte (`main.c`)  
-- Um `README.md` com explicações, instruções de compilação e exemplos  
 
 ---
 
@@ -23,7 +19,7 @@ Cada pasta contém:
 
 - Linguagem **C**  
 - Compilador **GCC**  
-- Ambiente: **Linux/Windows** (terminal ou IDE de sua preferência, como Code::Blocks, Dev-C++ ou VS Code)  
+- Ambiente: **Windows** (VS Code)  
 
 ---
 

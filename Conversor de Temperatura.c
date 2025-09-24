@@ -16,9 +16,8 @@ float funcaoFah(float Fah) {
 }
 
 int main() {
-    char escolha;     // Armazena a opção escolhida pelo usuário (C ou F)
-    float temp;       // Temperatura de entrada
-    float result;     // Resultado da conversão
+    char escolha;
+    float temp, result;
 
     // Pergunta ao usuário qual conversão deseja
     printf("Digite C para Celsius ou F para Fahrenheit: ");
